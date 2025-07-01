@@ -6,7 +6,7 @@
 
 ## 🧬 About Me
 
-- 🔐 Passionate about cybersecurity — Red Team, Web App Security, Network Recon
+- 🔐 Passionate about cybersecurity — Blue Team, Web App Security, Network Recon
 - 🧰 Comfortable with Linux (Kali, Ubuntu), Bash, Python scripting
 - ⚙️ Learning by building: from port scanners to CTF writeups
 - 🧘 Into self-mastery: meditation, semen retention, fitness — strong mind = strong defense
